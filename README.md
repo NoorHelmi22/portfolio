@@ -4,7 +4,7 @@ Here are my simple portfolio or profile that introduce a little bit about me. Th
 
 ## Homepage
 
-![Homepage](https://github.com/NoorHelmi22/portfolio.git/blob/master/img/screenshot.JPG?raw=true)
+![Homepage](https://github.com/NoorHelmi22/portfolio.git/blob/master/img/screenshot.png?raw=true)
 
 **[Live Preview](https://noorhelmi22.github.io/portfolio/)**
 
